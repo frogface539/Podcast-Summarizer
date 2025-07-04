@@ -1,0 +1,9 @@
+streamlit
+nltk
+scikit-learn
+youtube-transcript-api
+gensim
+spacy
+pandas
+wordcloud
+matplotlib
